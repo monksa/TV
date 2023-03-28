@@ -1,3 +1,6 @@
+680
+https://raw.githubusercontent.com/monksa/TV/main/samsung.txt
+
 diyp
 http://192.168.2.60:17731/d/s/sfDT7xXpMtQjVK5e8mE6K5kahxcjoJJs/webapi/entry.cgi/list.txt?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A740002053316721120%22%5D&force_download=false&sharing_token=%22tciEiLXD49NV2S1RuIxam.8op_UfkUCbc9bN4_upezko6l8ZO38R8fCJMypQ2AK4k5xFYQ78_n8XPKdjb6Ene7K02QWyU6o01CfE4jeFRp1B68RfqieRchBYKyvZkc881KPXY_NEBP0._tcAl2MsLaaCCGqdN9l3HrYdvBPPPxigeT10nfWp5GqTm5kJEfl2AggviVANbLq8PmUIG7ZcZBNgOYigEioYrwlRSa4ycJr5O8u84Ak.ObAH%22&SynoToken=IWkaQVfnt8pqg&_dc=1678236674129
 
