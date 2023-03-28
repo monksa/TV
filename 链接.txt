@@ -1,1 +1,27 @@
-https://github.com/monksa/softcenterarm/blob/master/TVlist/tvlist.txt
+diyp
+http://192.168.2.60:17731/d/s/sfDT7xXpMtQjVK5e8mE6K5kahxcjoJJs/webapi/entry.cgi/list.txt?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A740002053316721120%22%5D&force_download=false&sharing_token=%22tciEiLXD49NV2S1RuIxam.8op_UfkUCbc9bN4_upezko6l8ZO38R8fCJMypQ2AK4k5xFYQ78_n8XPKdjb6Ene7K02QWyU6o01CfE4jeFRp1B68RfqieRchBYKyvZkc881KPXY_NEBP0._tcAl2MsLaaCCGqdN9l3HrYdvBPPPxigeT10nfWp5GqTm5kJEfl2AggviVANbLq8PmUIG7ZcZBNgOYigEioYrwlRSa4ycJr5O8u84Ak.ObAH%22&SynoToken=IWkaQVfnt8pqg&_dc=1678236674129
+
+net
+https://gitee.com/monksa/diy/raw/master/list.txt
+
+
+
+apple
+  loc
+http://192.168.2.60:17731/d/s/sfDT7zFQ9LTI7w5i8ax5mtnaQfFX2med/webapi/entry.cgi/apple.txt?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A740002053341886948%22%5D&force_download=false&sharing_token=%22cdRG4mrMGbFpVs0v1IMJmpdDy9flIC.FRYqF8ZAJ.xKI6xhKsLakPP8PdwUUM1H8BSrMvkl7sb6WqvPxyhv9aKEo7oVqDYaGaQYi7aWRQa9ZdjaH4UlDtvmzIyAONnj5wUJtVffe8GsLfXceivtjWxSPxPDNPwqH80kasUAA0cnBkxn6FOy1tlSFtgAPUebvxAYnZkWlGpNw81p3xZ8sPWrlpNSE9SiznMVcK6Ed0C9JkfoJ.N0Fw3Xo%22&SynoToken=IWkaQVfnt8pqg&_dc=1678434544720
+
+  net
+https://gitee.com/monksa/diy/raw/master/apple.txt
+
+
+
+samsung
+loc
+http://192.168.2.60:17731/d/s/sfIDi7pDl8ZsDwJNyz0ESRdu8y1th29m/webapi/entry.cgi/samsung.txt?api=SYNO.SynologyDrive.Files&method=download&version=2&files=%5B%22id%3A740018785718673463%22%5D&force_download=false&sharing_token=%22wOo_upEGwucxza_u5AdXJeca5NdN6lZ5Dem1AR.OE63V9DK.UbHIGj_fKZADZ7ETRNNggvW426OSYpB8LtGIDkWorIiyg9nWbiAjCREKfpflfJxzBvk6sNJXshDRM.GVdxLX1rymoPfYTNJLd4w03QEIxqP3UY5vNxokBqQ0ceLU9_69PrDJihSxUxTU.2q6Q6YMJVlx9WjYZJrqNvYMMBJr59i70cXxIThoL.7vtP9Re.fpkuAh4asO%22&SynoToken=--------&_dc=1679714620083
+
+net
+https://gitee.com/monksa/diy/raw/master/samsung.txt
+https://raw.githubusercontent.com/monksa/TV/main/samsung.txt
+
+m3u
+https://gitee.com/monksa/diy/raw/master/tv.m3u
