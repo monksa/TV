@@ -1,3 +1,0 @@
-监控,#genre#
-一楼,rtsp://admin:AA881234@192.168.2.101:554/cam/realmonitor?channel=1&subtype=0
-四楼,rtsp://admin:AA881234@192.168.2.104:554/cam/realmonitor?channel=1&subtype=0
